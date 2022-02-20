@@ -15,30 +15,30 @@
 
 <img src="/Screenshot/102.png?raw=true" width="800">
 
-## Step 4 :- `Download Private Key` for remote login then click on `Create` button
+## Step 4 :- `Download Private Key` for remote login then click on the `Create` button
 
 <img src="/Screenshot/103.png?raw=true" width="800">
 
-## Step 5 :- Copy Public IP Addreass of VM Instance
+## Step 5 :- Copy Public IP Address of VM Instance
 
 <img src="/Screenshot/104.png?raw=true" width="800">
 
-## Step 6 :- Now Open Putty-Gen softwere and load private key file and save private key ppk file
+## Step 6 :- Now Open `Putty-Gen` software and load the private key file and save the private key PPK file
 
 <img src="/Screenshot/105.png?raw=true" width="800">
 <img src="/Screenshot/106.png?raw=true" width="800">
 <img src="/Screenshot/107.png?raw=true" width="800">
 
-## Step 7 :- Opne Putty softwere and enter the IP address of the VM Instance
+## Step 7 :- Open `Putty` software and enter the IP address of the VM Instance
 
 <img src="/Screenshot/108.png?raw=true" width="800">
 
-## Step 8 :- Click on SSH then Auth and select ppk file for authentication. Then Click Open 
+## Step 8 :- Click on SSH then Auth and select PPK file for authentication. Then Click Open 
 
 <img src="/Screenshot/109.png?raw=true" width="800">
 <img src="/Screenshot/110.png?raw=true" width="800">
 
-## Step 9 :- Click on Accecpt on Security Alart.
+## Step 9 :- Click on Accept on Security Alert.
 
 <img src="/Screenshot/111.png?raw=true" width="800">
 

@@ -75,18 +75,17 @@ sudo firewall-cmd --reload
 
 <img src="/Screenshot/115.png?raw=true" width="800">
 
-## Step 12 :- Add Security Rules 
-Open your VM instance on Oracle Cloud and click on your subnet 
-
+## Step 12 :- Add Security Rules
+Open your VM instance on Oracle Cloud and click on your subnet  <br>
 <img src="/Screenshot/120.png?raw=true" width="800">
 
-Click on Default Security List
+Click on Default Security List <br>
 <img src="/Screenshot/121.png?raw=true" width="800">
 
-Click on Add Ingress Rule
+Click on Add Ingress Rule <br>
 <img src="/Screenshot/122.png?raw=true" width="800">
 
-Add Source CIDR as `0.0.0.0/0` and Des. Port as `80`
+Add Source CIDR as `0.0.0.0/0` and Des. Port as `80` <br>
 <img src="/Screenshot/123.png?raw=true" width="800">
 
 

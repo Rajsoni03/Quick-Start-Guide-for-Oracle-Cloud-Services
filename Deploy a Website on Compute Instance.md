@@ -75,7 +75,23 @@ sudo firewall-cmd --reload
 
 <img src="/Screenshot/115.png?raw=true" width="800">
 
-## Step 12 :- Deploy website from GitHub repo.
+## Step 12 :- Add Security Rules 
+Open your VM instance on Oracle Cloud and click on your subnet 
+
+<img src="/Screenshot/120.png?raw=true" width="800">
+
+Click on Default Security List
+<img src="/Screenshot/121.png?raw=true" width="800">
+
+Click on Add Ingress Rule
+<img src="/Screenshot/122.png?raw=true" width="800">
+
+Add Source CIDR as `0.0.0.0/0` and Des. Port as `80`
+<img src="/Screenshot/123.png?raw=true" width="800">
+
+
+
+## Step 13 :- Deploy website from GitHub repo.
 
 ```bash
 sudo yum install git -y
